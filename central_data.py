@@ -4,7 +4,7 @@ import sys
 
 
 # egg Datei muss korrekte Verison haben und im gleichen Order sein , wie dieses skript
-new_version="1" # 1  3
+new_version="3" # 1  3
 try:
     sys.path.append("carla-0.9.1" + new_version + "-py3.7-win-amd64.egg")
   #  sys.path.append( "C:\\Users\\Stephan\\Desktop\\CARLA_0.9.11\\WindowsNoEditor\\PythonAPI\\carla\\dist\\carla-0.9.1"+new_version+"-py3.7-win-amd64.egg")
